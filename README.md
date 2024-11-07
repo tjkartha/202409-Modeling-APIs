@@ -1,2 +1,2 @@
-# 202409-Walmart-Modeling-APIs
+# 202409-Modeling-APIs
  
